@@ -1,2 +1,2 @@
-# How to save data to SqlLite database when adding new row and editing in uwp datagrid?
-This example illustrates how to save data to SqlLite database when adding new row and editing in uwp datagrid
+# How to show vertical border to the column wise summary rows in wpf and uwp datagrid?
+This example illustrates how to show vertical border to the column wise summary rows in wpf and uwp datagrid.
