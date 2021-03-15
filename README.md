@@ -1,4 +1,4 @@
-# How to show vertical border to the column wise summary rows in wpf and uwp datagrid?
+# How to show vertical border to the column wise summary rows in WPF DataGrid (SfDataGrid)?
 
 This example illustrates how to show vertical border to the column wise summary rows in [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid).
 
