@@ -1,8 +1,8 @@
-# How to show vertical border to the column wise summary rows in WPF DataGrid?
+# How to show vertical border to the column wise summary rows in WPF / UWP DataGrid?
 
-This example illustrates how to show vertical border to the column wise summary rows in [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid).
+This example illustrates how to show vertical border to the column wise summary rows in WPF / UWP DataGrid.
 
-The vertical borders is not shows for each cell in summary rows when [ShowSummaryInRow](http://help.syncfusion.com/cr/cref_files/wpf/Syncfusion.SfGrid.WPF~Syncfusion.UI.Xaml.Grid.GridSummaryRow~ShowSummaryInRow.html) is disabled in **DataGrid**.
+The vertical borders is not shows for each cell in summary rows when [ShowSummaryInRow](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.GridSummaryRow.html#Syncfusion_UI_Xaml_Grid_GridSummaryRow_ShowSummaryInRow) is disabled in [WPF DataGrid](https://www.syncfusion.com/wpf-controls/datagrid) / [UWP DataGrid](https://www.syncfusion.com/uwp-ui-controls/datagrid) (SfDataGrid).
 
 The summary rows will be displayed as shown in the following image.
 
